@@ -11,7 +11,7 @@ sudo pacman-key --lsign-key 37DA55952430078E
 Add the following lines to the end of `/etc/pacman.conf`:
 ```
 [moezee]
-Server = https://repo.moezee.space/$arch
+Server = https://pkgs.moezee.space/$arch
 ```
 And, then:
 ```
