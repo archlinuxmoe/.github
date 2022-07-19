@@ -15,5 +15,5 @@ Server = https://pkgs.moezee.space/$arch
 ```
 And, then:
 ```
-sudo pacman -Syu
+sudo pacman -Sy
 ```
